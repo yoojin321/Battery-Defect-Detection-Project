@@ -1,0 +1,9 @@
+streamlit
+Pillow
+ollama
+opencv-python
+numpy
+fpdf
+torch
+torchvision
+segmentation-models-pytorch
