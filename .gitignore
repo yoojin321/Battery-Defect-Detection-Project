@@ -101,11 +101,11 @@ Thumbs.db
 # Streamlit
 .streamlit/
 
-# 모델 파일 (큰 파일)
-*.pth
-*.pt
-*.onnx
-*.pb
+# # 모델 파일 (큰 파일)
+# *.pth
+# *.pt
+# *.onnx
+# *.pb
 
 # 로그 파일
 *.log
